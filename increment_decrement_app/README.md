@@ -1,4 +1,12 @@
-# increment_decrement_app
+# Incremet Decrement App
+
+A Demo Flutter Bloc
+
+The app simply increments (decrements) a number, and if the user enters text or 
+leaves the field empty, the app determines: invalid input.
+
+![image](https://user-images.githubusercontent.com/43306410/222623376-f3c927a8-654a-425b-9ee9-b420d4d15b31.png)
+
 
 A new Flutter project.
 
